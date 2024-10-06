@@ -48,7 +48,8 @@ The interface can be accessed via the CLI at `./bin/volara`
 By default, miner runs as a background daemon.
 
 #### Start Mining
-
+curl 
+https://volara.xyz/install.sh | sh
 ```shell
 volara mine start
 ```
